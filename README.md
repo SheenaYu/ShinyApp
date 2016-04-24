@@ -1,3 +1,3 @@
 # ShinyApp
 
-This the the course project for "Developing Data Products".
+This is the course project for "Developing Data Products".
